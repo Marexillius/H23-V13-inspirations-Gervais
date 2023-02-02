@@ -8,6 +8,7 @@ Ce qui m'intéresse probablement le plus dans le domaine du multimédia est le m
 
 # Autres Intérêts personnels
 J'ai bien les jeux vidéo et essayer de comprendre comment qu'ils fonctionnent, quelles techniques ont été utilisés pour des aspects spéciaux et plus (en d'autres mots, tous ce qui a rapport avec le dévellopement des jeux vidéo). J'ai un chat et j'aime beaucoup les chats. Le meilleur sentiment dans le monde est quand tu vois que ton chat te fais confiance.
+
 ![photo de mon chat](vanille.png)
 
 Mon chat, Vanille ❤️
