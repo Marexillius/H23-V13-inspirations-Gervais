@@ -12,3 +12,4 @@ Quand quelque'un marche à travers l'arche blanche, une image de la personnage q
 Ceci fonctionne grâce à un capteur de mouvement bien placé dans l'arche, qui permet de détecter le mouvement et le prendre en photo.
 ![photo du capteur de mouvement](images/capteur_mouvement_1.jpg)
 ![photo du capteur de mouvement](images/capteur_mouvement_2.jpg)
+
