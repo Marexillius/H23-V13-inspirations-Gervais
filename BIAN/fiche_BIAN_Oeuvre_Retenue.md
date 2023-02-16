@@ -5,7 +5,7 @@ Photo de l'oeuvre Résonances, 2 Février 2023
 
 
 Résonances est une oeuvre intéractive, permanente et intérieure faite par Louis-Phillipe Rondeau en 2021. Le nom Résonances est une métaphore sur le temps qui défile.
-![photo du cartel](images/cartel_1jpg)
+![photo du cartel](images/cartel_1.jpg)
 
 ## Fonctionnement
 Quand quelque'un marche à travers l'arche blanche, une image de la personnage qui a marché à travers l'arche apparaît à l'écran à droite de l'arche comme vu dans cette vidéo:
