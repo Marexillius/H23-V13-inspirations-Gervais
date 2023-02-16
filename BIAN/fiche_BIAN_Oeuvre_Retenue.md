@@ -15,3 +15,5 @@ Ceci fonctionne grâce à un capteur de mouvement bien placé dans l'arche, qui 
 ![photo du capteur de mouvement](images/capteur_mouvement_1.jpg)
 ![photo du capteur de mouvement](images/capteur_mouvement_2.jpg)
 
+Voici un plan de l'oeuvre de haut et de devant l'oeuvre:
+![photo des plans](images/plans.png)
