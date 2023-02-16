@@ -20,4 +20,5 @@ Voici un plan de l'oeuvre de haut et de devant l'oeuvre:
 
 ## Équipement
 Comme mentionné précédemment, cet oeuvre utilise un capteur de mouvement, mais c'est loin d'être tout. Un ordinateur caché derrière l'écran sert comme le cerveau de cet oeuvre pour tous contrôler, comme l'écran, le capteur de mouvement et l'appareil qui prend en vidéo le mouvement produit par un visiteur.
+
 ![photo de l'ordinateur](images/arriere_droit.jpg)
