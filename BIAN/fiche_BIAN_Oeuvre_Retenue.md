@@ -22,7 +22,7 @@ Voici un plan de l'oeuvre de haut et de devant l'oeuvre:
 ![photo des plans](images/plans.png)
 
 Voici une vidéo qui montre la mise en espace:
-[Video de la mise en espace](https://youtube.com/shorts/6muijECu_0g?feature=share)
+[Vidéo de la mise en espace](https://youtube.com/shorts/6muijECu_0g?feature=share)
 
 ## Équipement
 Comme mentionné précédemment, cet oeuvre utilise un capteur de mouvement, mais c'est loin d'être tout. Un ordinateur caché derrière l'écran sert comme le cerveau de cet oeuvre pour tous contrôler, comme l'écran, le capteur de mouvement et l'appareil qui prend en vidéo le mouvement produit par un visiteur.
