@@ -15,8 +15,14 @@ Ceci fonctionne grâce à un capteur de mouvement bien placé dans l'arche, qui 
 ![photo du capteur de mouvement](images/capteur_mouvement_1.jpg)
 ![photo du capteur de mouvement](images/capteur_mouvement_2.jpg)
 
+## Mise en espace
+Résonances est situé dans une grande salle et l'installation en soi-même n'est pas connecté à des murs. C'est une oeuvre qui pourrait fonctionner au milieu d'une salle, mais pas à l'extérieur à cause de l'équipement utilisé pour l'oeuvre.
+
 Voici un plan de l'oeuvre de haut et de devant l'oeuvre:
 ![photo des plans](images/plans.png)
+
+Voici une vidéo qui montre la mise en espace:
+[video de la mise en espace](https://youtube.com/shorts/6muijECu_0g?feature=share)
 
 ## Équipement
 Comme mentionné précédemment, cet oeuvre utilise un capteur de mouvement, mais c'est loin d'être tout. Un ordinateur caché derrière l'écran sert comme le cerveau de cet oeuvre pour tous contrôler, comme l'écran, le capteur de mouvement et l'appareil qui prend en vidéo le mouvement produit par un visiteur.
