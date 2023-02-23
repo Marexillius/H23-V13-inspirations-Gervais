@@ -22,3 +22,6 @@ Voici un plan de l'oeuvre de haut et de devant l'oeuvre:
 Comme mentionné précédemment, cet oeuvre utilise un capteur de mouvement, mais c'est loin d'être tout. Un ordinateur caché derrière l'écran sert comme le cerveau de cet oeuvre pour tous contrôler, comme l'écran, le capteur de mouvement et l'appareil qui prend en vidéo le mouvement produit par un visiteur.
 
 ![photo de l'ordinateur](images/arriere_droit.jpg)
+
+## Description
+RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle. Cette boucle visuelle et sonore permet à l’interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière. La pièce a été dévoilée en décembre 2021 lors de l’exposition CORPS DATA à l’Ilot Balmoral en collaboration avec ELEKTRA. Elle a été présentée à la BIAN 6 (Biennale d’art numérique) à Arsenal art contemporain à Montréal en 2023. (Description provenant du [site de l'artiste](http://patenteux.com/wp/portfolio/resonances-2021/))
