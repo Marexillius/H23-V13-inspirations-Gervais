@@ -39,10 +39,12 @@ Quand on marche à travers l'arche, on se voit sur l'écran à droite de l'arche
 Les capteurs de mouvements m'intrigues beaucoup car je n'arrive pas à comprendre comment qu'ils pourraient fonctionner. Habituellement, quand je vois quelque chose de multimédia comme cette oeuvre, une machine, un site web ou un jeu vidéo, j'ai relativement rapidement une bonne idée de comment que ça pourrait fonctionner, mais ce n'est pas le cas avec les capteurs de mouvements. En plus de ça, le capteur de mouvement prend des photos ou des vidéo quand un mouvement est détecté, ce qui m'impressionne encore plus. Ces deux aspects du capteur de mouvement et des photos (ou vidéo, je ne sais pas c'est lequel) m'inspirent à essayer de comprendre comment cette machine incroyable fonctionne et comment que je pourrais utiliser des capteurs de mouvements pour des machines multimédia dans le futur. 
 
 Photo du capteur de mouvement:
+
 ![photo du capteur de mouvement](images/capteur_mouvement_2.jpg)
 
 
 Le seul aspect que je vais éviter d'utiliser comme inspiration de Résonances est le matériau utilisé pour faire la base de l'arche. Ça m'a l'air d'être fait avec du bois de chêne foncé et quelques clous, ce qui ne fittais pas bien avec l'arche blanche, illuminé et très technologique. C'est un gros contraste qui aurais pu bien fonctionner pour vraiment améliorer le design, mais je trouve que malheureuesement, cette décision de matériau m'a fait hésité une couple de fois à si je devrais marcher à travers l'arche ou si le bois allait s'écrouler sous mes pieds. Sans avoir été dit qu'on pouvait m'archer à travers l'arche ou sans avoir vu quelque'un marcher à travers l'arche, je ne pense pas que j'aurais imaginé que s'était une oeuvre intéractive, ce qui est, à mon avis, la faute de la base.
 
 Photo où la base en bois est visible:
+
 ![photo de la base en bois](images/gauche.jpg)
