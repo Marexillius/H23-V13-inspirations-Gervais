@@ -1,2 +1,2 @@
 # EDRIA
-![photo de edria](./images/edria_devant.jpg)
+![photo de edria](images/edria_devant.jpg)
