@@ -30,3 +30,36 @@ Ces élèves talentueux sont:
 La conception a été faite durant la 5e session des étudiants en 2022 et la réalisation se fait durant la dernière (et 6e) session des étudiants en 2023.
 
 ## Description de EDRIA
+
+
+## Type d'installation
+EDRIA est une oeuvre interactive
+
+(Insère vidéo ici moi du futur)
+
+## Fonction du dispositif multimédia
+
+
+## Mise en espace
+
+
+## Composantes et techniques
+
+
+## Éléments nécessaires à la mise en exposition
+
+
+## Expérience vécue
+
+
+## Ce qui m'a plu
+
+
+## Ce qui m'a donné des idées
+
+
+## Aspect que je ne souhaite pas retenir
+
+
+# Références
+[La page du projet EDRIA](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
